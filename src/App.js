@@ -35,7 +35,7 @@ function App() {
       f4: "Community Access",
       a4: "✔",
       f5: "Unlimited Private Projects",
-      acces5: "✔",
+      a5: "✔",
       f6: "Dedicated Phone Support",
       a6: "✔",
       f7: "Free Subdomain",
